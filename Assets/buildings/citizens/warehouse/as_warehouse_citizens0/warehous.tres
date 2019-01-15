@@ -1,0 +1,31 @@
+[gd_resource type="SpriteFrames" load_steps=5 format=2]
+
+[ext_resource path="res://Assets/buildings/citizens/warehouse/as_warehouse_citizens0/idle/45/000.png" type="Texture" id=1]
+[ext_resource path="res://Assets/buildings/citizens/warehouse/as_warehouse_citizens0/idle/315/000.png" type="Texture" id=2]
+[ext_resource path="res://Assets/buildings/citizens/warehouse/as_warehouse_citizens0/idle/135/000.png" type="Texture" id=3]
+[ext_resource path="res://Assets/buildings/citizens/warehouse/as_warehouse_citizens0/idle/225/000.png" type="Texture" id=4]
+
+[resource]
+
+animations = [ {
+"frames": [ ExtResource( 1 ) ],
+"loop": true,
+"name": "idle_45",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 2 ) ],
+"loop": true,
+"name": "idle_315",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 3 ) ],
+"loop": true,
+"name": "idle_135",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 4 ) ],
+"loop": true,
+"name": "idle_225",
+"speed": 5.0
+} ]
+
